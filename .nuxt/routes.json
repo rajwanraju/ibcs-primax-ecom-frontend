@@ -1,0 +1,113 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\admin.vue",
+    "chunkName": "pages/admin",
+    "children": [
+      {
+        "name": "admin-login",
+        "path": "login",
+        "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\admin\\\\login.vue",
+        "chunkName": "pages/admin/login"
+      }
+    ]
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\cart.vue",
+    "chunkName": "pages/cart"
+  },
+  {
+    "path": "/dashboard",
+    "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "children": [
+      {
+        "name": "dashboard",
+        "path": "",
+        "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\dashboard\\\\index.vue",
+        "chunkName": "pages/dashboard/index"
+      },
+      {
+        "name": "dashboard-createOrder",
+        "path": "createOrder",
+        "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\dashboard\\\\createOrder.vue",
+        "chunkName": "pages/dashboard/createOrder"
+      },
+      {
+        "name": "dashboard-deliveried-orders",
+        "path": "deliveried-orders",
+        "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\dashboard\\\\deliveried-orders\\\\index.vue",
+        "chunkName": "pages/dashboard/deliveried-orders/index"
+      },
+      {
+        "name": "dashboard-order",
+        "path": "order",
+        "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\dashboard\\\\order\\\\index.vue",
+        "chunkName": "pages/dashboard/order/index"
+      },
+      {
+        "name": "dashboard-product",
+        "path": "product",
+        "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\dashboard\\\\product\\\\index.vue",
+        "chunkName": "pages/dashboard/product/index"
+      },
+      {
+        "name": "dashboard-product-addProduct",
+        "path": "product/addProduct",
+        "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\dashboard\\\\product\\\\addProduct.vue",
+        "chunkName": "pages/dashboard/product/addProduct"
+      },
+      {
+        "name": "dashboard-product-images",
+        "path": "product/images",
+        "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\dashboard\\\\product\\\\images.vue",
+        "chunkName": "pages/dashboard/product/images"
+      },
+      {
+        "name": "dashboard-order-id",
+        "path": "order/:id",
+        "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\dashboard\\\\order\\\\_id.vue",
+        "chunkName": "pages/dashboard/order/_id"
+      }
+    ]
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\product\\\\index.vue",
+    "chunkName": "pages/product/index"
+  },
+  {
+    "name": "user-order",
+    "path": "/user/order",
+    "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\user\\\\order\\\\index.vue",
+    "chunkName": "pages/user/order/index"
+  },
+  {
+    "name": "user-order-id",
+    "path": "/user/order/:id",
+    "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\user\\\\order\\\\_id.vue",
+    "chunkName": "pages/user/order/_id"
+  },
+  {
+    "name": "find-name",
+    "path": "/find/:name?",
+    "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\find\\\\_name.vue",
+    "chunkName": "pages/find/_name"
+  },
+  {
+    "name": "product-id",
+    "path": "/product/:id",
+    "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\product\\\\_id.vue",
+    "chunkName": "pages/product/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Job Test\\\\Ecommerce_frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
